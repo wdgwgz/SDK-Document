@@ -11,7 +11,7 @@
   },
   "links": {
     "sidebar": {
-      "MarkDown语法参考": "https://gitbook.hushuang.me/config.html"
+      "MarkDown": "https://gitbook.hushuang.me/config.html"
     }
   },
   "plugins": [
