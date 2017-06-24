@@ -2,8 +2,6 @@
 
 ## 1. Android Document
 
-
-
 ## IOS Document
 
 ## 
