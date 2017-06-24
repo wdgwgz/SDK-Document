@@ -1,18 +1,16 @@
 ## SDK-Document
 
-### 基本对接
-* 说明
+* ### 基本对接
     * [Android SDK](android.md)
     * [IOS SDK](ios.md)
 
-### 常见问题
+* ### 常见问题
+    * [Android SDK](android.question.md)
+    * [IOS SDK](ios.question.md)
 
-* [Android SDK](android.question.md)
-* [IOS SDK](ios.question.md)
+* ### 服务器对接说明
 
-### 服务器对接说明
-
-* [充值说明](payment.md)
+    * [充值说明](payment.md)
 
 
 
