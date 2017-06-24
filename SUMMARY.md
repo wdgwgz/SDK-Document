@@ -10,6 +10,10 @@
 * [Android SDK](android.question.md)
 * [IOS SDK](ios.question.md)
 
+### 服务器对接说明
+
+* [充值说明](payment.md)
+
 
 
 
