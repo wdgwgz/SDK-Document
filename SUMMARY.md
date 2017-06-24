@@ -1,7 +1,7 @@
 ## SDK-Document
 
 ### 基本对接
-
+* 说明
     * [Android SDK](android.md)
     * [IOS SDK](ios.md)
 
