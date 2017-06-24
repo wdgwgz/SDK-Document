@@ -16,7 +16,6 @@
   },
   "plugins": [
     "splitter",
-    "-sharing",
     "-search",
     "expandable-chapters"
   ],
