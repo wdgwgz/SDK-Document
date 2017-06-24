@@ -1,9 +1,9 @@
 {
-  "title": "这只是个demo",
-  "description": "这只是个demo",
-  "author": "i am beauty",
+  "title": "SDK-Document",
+  "description": "SDK-Document",
+  "author": "Gemor",
   "language": "zh-hans",
-  "gitbook": "2.6.7",
+  "gitbook": "3.0",
   "fontState": {
     "size": "2",
     "family": "sans",
@@ -11,7 +11,6 @@
   },
   "links": {
     "sidebar": {
-      "Gitbook官网": "https://www.gitbook.com"
     }
   },
   "plugins": [
@@ -24,7 +23,7 @@
     "search-pro": {
       "cutWordLib": "nodejieba",
       "defineWord": [
-        "这只是个demo"
+        "SDK-Document"
       ]
     }
   }
