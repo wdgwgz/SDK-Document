@@ -16,7 +16,7 @@
   },
   "plugins": [
     "splitter",
-    "-search",
+    "search",
     "expandable-chapters"
   ],
   "pluginsConfig": {
