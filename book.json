@@ -47,7 +47,7 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-            "base": "https://github.com/wdgwgz/sdk-document/edit/",
+            "base": "https://github.com/wdgwgz/sdk-document/edit/master",
             "label": "Edit This Page"
         },
         "theme-default": {
