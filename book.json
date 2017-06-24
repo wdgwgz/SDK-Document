@@ -15,10 +15,7 @@
     }
   },
   "plugins": [
-    "splitter",
-    "-sharing",
-    "-search",
-    "expandable-chapters"
+    "splitter","highlight","expandable-chapters"
   ],
   "pluginsConfig": {
     "search-pro": {
