@@ -2,13 +2,13 @@
 
 ### 基本对接
 
-* \[Android SDK\]\(android.md\)
-* \[IOS SDK\]\(ios.md\)
+* [Android SDK](android.md)
+* [IOS SDK](ios.md)
 
 ### 常见问题
 
-* \[Android SDK\]\(android.question.md\)
-* \[IOS SDK\]\(ios.question.md\)
+* [Android SDK](android.question.md)
+* [IOS SDK](ios.question.md)
 
 
 
