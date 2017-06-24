@@ -18,14 +18,7 @@
     "splitter",
     "-sharing",
     "-search",
-    "expandable-chapters"
-  ],
-  "pluginsConfig": {
-    "search-pro": {
-      "cutWordLib": "nodejieba",
-      "defineWord": [
-        "SDK-Document"
-      ]
-    }
-  }
+    "expandable-chapters",
+    "livereload"
+  ]
 }
