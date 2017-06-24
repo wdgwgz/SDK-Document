@@ -47,6 +47,9 @@
         "3-ba@^0.9.0"
     ],
     "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/wdgwgz/SDK-Document"
+        },
         "edit-link": {
             "base": "https://github.com/wdgwgz/sdk-document/edit/master",
             "label": "Edit This Page"
