@@ -1,10 +1,14 @@
-# SDK-Document
+## SDK-Document
 
-## 1. \[Android SDK\]\(android.md\)
+### 基本对接
 
+* \[Android SDK\]\(android.md\)
+* \[IOS SDK\]\(ios.md\)
 
+### 常见问题
 
-## 2. \[IOS SDK\]\(ios.md\)
+* \[Android SDK\]\(android.question.md\)
+* \[IOS SDK\]\(ios.question.md\)
 
 
 
