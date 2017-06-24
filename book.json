@@ -3,7 +3,7 @@
   "description": "SDK-Document",
   "author": "Gemor",
   "language": "zh-hans",
-  "gitbook": "2.6.7",
+  "gitbook": ">=3.0.0",
   "fontState": {
     "size": "2",
     "family": "sans",
