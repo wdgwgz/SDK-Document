@@ -46,6 +46,10 @@
         "3-ba@^0.9.0"
     ],
     "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/wdgwgz/sdk-document/edit/",
+            "label": "Edit This Page"
+        },
         "theme-default": {
             "showLevel": true
         },
