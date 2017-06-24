@@ -3,22 +3,29 @@
   "description": "SDK-Document",
   "author": "Gemor",
   "language": "zh-hans",
-  "gitbook": "3.0",
+  "gitbook": "2.6.7",
   "fontState": {
     "size": "2",
     "family": "sans",
     "theme": "night"
   },
-  "links" : {
-    "sidebar" : {
-        "Home" : "http://sdk-document.w66t.com"
+  "links": {
+    "sidebar": {
+      "Home": "https://sdk-document.w66t.com"
     }
-},
+  },
   "plugins": [
     "splitter",
     "-sharing",
     "-search",
-    "expandable-chapters",
-    "livereload"
-  ]
+    "expandable-chapters"
+  ],
+  "pluginsConfig": {
+    "search-pro": {
+      "cutWordLib": "nodejieba",
+      "defineWord": [
+        "sdk-document"
+      ]
+    }
+  }
 }
