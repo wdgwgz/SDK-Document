@@ -2,8 +2,8 @@
 
 ### 基本对接
 
-* [Android SDK](android.md)
-* [IOS SDK](ios.md)
+    * [Android SDK](android.md)
+    * [IOS SDK](ios.md)
 
 ### 常见问题
 
