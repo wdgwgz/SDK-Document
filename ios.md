@@ -10,7 +10,7 @@
 * 对接文档[下载](https://github.com/wdgwgz/IOS-SDK/blob/master/Document/DBSDK%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3.pdf)
 * SDK|Demo[下载](https://github.com/wdgwgz/IOS-SDK/releases)
 * 服务器对接说明
-    * 登录验证
+    * [登录验证](login.verify.md)
     * 充值说明
 
 
