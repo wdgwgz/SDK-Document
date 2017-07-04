@@ -9,17 +9,18 @@
 ```
 
 * 基本对接
-
-  * [IOS SDK](ios.md)
-
+  * [IOS SDK](https://www.gitbook.com/book/wdgwgz/sdk-document/edit#)
 * 服务器对接说明
 
-  * [登录验证说明](login.verify.md)
-  * [充值说明](payment.md)
+  * [登录验证说明](/login.verify.md)
+
+  * [充值说明](/payment.md)
 
 * 常见问题
 
-  * [IOS 对接问题](ios.question.md)
+  * [IOS 对接问题](https://www.gitbook.com/book/wdgwgz/sdk-document/edit#)
+
+
 
 
 
