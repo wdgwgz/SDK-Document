@@ -8,17 +8,15 @@
     如果暂时还没有回调地址，可先对接登录。
 ```
 
+
+
 * 基本对接
-  * [IOS SDK](https://www.gitbook.com/book/wdgwgz/sdk-document/edit#)
+  * [IOS SDK](/ios.md)
 * 服务器对接说明
-
   * [登录验证说明](/login.verify.md)
-
   * [充值说明](/payment.md)
-
 * 常见问题
-
-  * [IOS 对接问题](https://www.gitbook.com/book/wdgwgz/sdk-document/edit#)
+  * [IOS 对接问题](/ios.question.md)
 
 
 
