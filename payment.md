@@ -25,11 +25,35 @@ sign = md5(game_id + uid + key + time)
 注： + 不参与运算
 ```
 
-4、返回参数
+**4、返回参数**
 
 ```
 {'status':1, data:{'msg': 'success'}}
 {'status':1, data:{'msg': 'sign error'}}
+```
+
+
+
+##### 5、实例
+
+```
+@ SDK返回参数
+$uid = "*****";
+$sessionid = "*******";
+
+@平台方获取参数
+$gameID = '****';
+$key = "*****";
+
+
+$time = time();
+$sign = md5($gameID . $uid . $key . $time);
+$url = "http://api.asm8.com/api/channel_login_verify";
+
+$url = $url . "?game_id={$gameID}&uid={$uid}&time={$time}&sign={$sign}&sessionid={$sessionid}";
+
+$res = file_get_contents($url);
+var_dump($res);
 ```
 
 
