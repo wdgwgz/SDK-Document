@@ -25,7 +25,7 @@ sign = md5(game_id + uid + key + time)
 注： + 不参与运算
 ```
 
-**4、返回参数**
+##### 4、返回参数
 
 ```
 {'status':1, data:{'msg': 'success'}}
