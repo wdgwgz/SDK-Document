@@ -24,7 +24,6 @@
     ext         (string)    附属信息（cp自定义）
     time        (int)       发送时间
     sign        (string)    验证串
-    
 ```
 
 ##### 2、 加密串加密说明
