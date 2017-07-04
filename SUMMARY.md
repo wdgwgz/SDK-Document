@@ -1,5 +1,3 @@
-# Summary
-
 ## SDK-Document
 
 * [Introduction](README.md)
