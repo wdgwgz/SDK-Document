@@ -18,7 +18,7 @@
     cp_order_id (string)    cp唯一订单
     roleid      (string)    角色ID
     rolename    (string)    角色名称
-    order_money (int)       订单金额  **单位：元**
+    order_money (int)       订单金额 （单位：元）
     productid   (string)    商品ID
     pay_type    (int)       支付类型 目前只有苹果内购
     ext         (string)    附属信息（cp自定义）
@@ -30,7 +30,7 @@
 
 ```
 sign = md5(game_id + time + key + uid + pay_money + cp_order_id);
-注： + 不参与运算 **结果为小写32位字符**
+注： + 不参与运算 （结果为小写32位字符）
 ```
 
 ##### 3、返回参数

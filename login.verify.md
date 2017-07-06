@@ -22,7 +22,7 @@
 
 ```
 sign = md5(game_id + uid + key + time)
-注： + 不参与运算 **结果为小写32位字符**
+注： + 不参与运算 （结果为小写32位字符）
 ```
 
 ##### 4、返回参数
@@ -31,8 +31,6 @@ sign = md5(game_id + uid + key + time)
 {'status':1, data:{'msg': 'success'}}
 {'status':1, data:{'msg': 'sign error'}}
 ```
-
-
 
 ##### 5、实例
 
