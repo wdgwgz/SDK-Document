@@ -8,6 +8,6 @@
 * [服务器对接说明](fu-wu-qi-dui-jie-shuo-ming.md)
   * [登录验证说明](login.verify.md)
   * [充值说明](payment.md)
-* 常见问题
+* [常见问题](chang-jian-wen-ti.md)
   * [IOS 对接问题](ios.question.md)
 
