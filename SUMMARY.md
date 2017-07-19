@@ -3,7 +3,7 @@
 ## SDK-Document
 
 * [Introduction](README.md)
-* 基本对接
+* [基本对接](ji-ben-dui-jie.md)
   * [IOS SDK](ios.md)
 * [服务器对接说明](fu-wu-qi-dui-jie-shuo-ming.md)
   * [登录验证说明](login.verify.md)
