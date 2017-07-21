@@ -29,7 +29,7 @@ sign = md5(game_id + uid + key + time)
 
 ```
 {'status':1, data:{'msg': 'success'}}
-{'status':1, data:{'msg': 'sign error'}}
+{'status':0, data:{'msg': 'sign error'}}
 ```
 
 ##### 5、实例
