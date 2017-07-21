@@ -29,7 +29,7 @@
 ##### 2、 加密串加密说明
 
 ```
-sign = md5(game_id + time + key + uid + pay_money + cp_order_id);
+sign = md5(game_id + time + key + uid + order_money + cp_order_id);
 注： + 不参与运算 （结果为小写32位字符）
 ```
 
