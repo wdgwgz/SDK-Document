@@ -28,8 +28,8 @@ sign = md5(game_id + uid + key + time)
 ##### 4、返回参数
 
 ```
-{'status':1, data:{'msg': 'success'}}
-{'status':0, data:{'msg': 'sign error'}}
+{"status":1, "data":{"msg": "success"}}
+{"status":0, "data":{"msg": "sign error"}}
 ```
 
 ##### 5、实例
